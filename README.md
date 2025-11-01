@@ -12,7 +12,7 @@
 ## Мои проекты:
 - [Flask APi для погоды]
 - [Telegram бот с мини-играми]
-- [2d Игра на pygame]
+- [2d Игра на Pygame]
 - [Веб сайт]- (https://github.com/starijbox/ProjctX)
 
 
